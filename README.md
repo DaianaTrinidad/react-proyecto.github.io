@@ -5,10 +5,10 @@
 
 ## Objetivos
 
-*Crear una aplicacion con React que cree tareas y una vez terminadas, las elimine.
+* Crear una aplicacion con React que cree tareas y una vez terminadas, las elimine.
 
 ## Para correr el proyecto
 
-*Entramos a la carpeta vite.project
-*npm run dev 
+* Entramos a la carpeta vite.project
+* npm run dev 
 
