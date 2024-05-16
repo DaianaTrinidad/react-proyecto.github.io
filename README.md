@@ -9,6 +9,6 @@
 
 ## Para correr el proyecto
 
-* Entramos a la carpeta vite.project
-* npm run dev 
+*Entramos a la carpeta vite.project
+*npm run dev 
 
